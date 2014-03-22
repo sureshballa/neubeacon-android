@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">NeuBeacon.Droid</string>
+	<string name="app_label">Find The Beacons</string>
+	<string name="beacon_notification">There is a beacon nearby!</string>
+</resources>
